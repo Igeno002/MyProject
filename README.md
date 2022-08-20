@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title></title>
+  <title>Hello</title>
 </head>
 <body>
 <h2>WAITING FOR MY PROJECT LITTLE WHILE </h2>
