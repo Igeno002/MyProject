@@ -3,6 +3,7 @@
   <title>Hello</title>
 </head>
 <body>
-<h2>WAITING FOR MY PROJECT LITTLE WHILE Border</h2>
+<h1>WAITING FOR MY PROJECT
+</h1>
 </body>
 </html>
